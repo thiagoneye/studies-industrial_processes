@@ -37,7 +37,7 @@ Para explorar os estudos:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/thiagoneye/studies-industrial_processes.git
+    git clone git@github.com:thiagoneye/studies-industrial_processes.git
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
